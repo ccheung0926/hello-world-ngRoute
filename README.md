@@ -1,4 +1,4 @@
-HelloWorldAngular
+hello-world-angular
 =================
 
 Hello World Angular, ngView and ngRoute.
